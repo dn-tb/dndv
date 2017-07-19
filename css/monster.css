@@ -1,0 +1,20 @@
+table.monster {
+  border-style : solid;
+  border-width : thin;
+}
+
+table.monster td {
+  border-style : solid;
+  border-width : thin;
+  width : 100px;
+  font-size : 70%;
+  white-space : nowrap;
+}
+
+table.monster th {
+  border-style : solid;
+  border-width : thin;
+  width : 200px;
+  font-size : 70%;
+  white-space : nowrap;
+}

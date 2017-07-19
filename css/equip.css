@@ -1,0 +1,20 @@
+table.item, table.potential, table.enchant, {
+  border-style : solid;
+  border-width : thin;
+}
+
+table.item td, table.potential td, table.enchant td {
+  border-style : solid;
+  border-width : thin;
+  width : 100px;
+  font-size : 70%;
+  white-space : nowrap;
+}
+
+table.item th, table.potential th, table.enchant th {
+  border-style : solid;
+  border-width : thin;
+  width : 200px;
+  font-size : 70%;
+  white-space : nowrap;
+}
